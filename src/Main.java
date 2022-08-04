@@ -73,6 +73,7 @@ public class Main {
                 System.out.println("Принадлежит к сезону осень.");
                 break;
             default:
+                System.out.println("Введен некорректный месяц");
         }
 
         // задача №6
